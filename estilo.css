@@ -9,6 +9,12 @@ img.lado {
 
 img {
     width: auto;
+    height: 100px;
+
+}
+
+img.header {
+    width: auto;
     height: 150px;
 }
 

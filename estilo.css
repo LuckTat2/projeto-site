@@ -3,14 +3,6 @@
     font-size: 16px;
 }
 
-iframe {
-    width: 500px;
-    height:250px;
-    border-radius: 10px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-}
-
 img.lado {
     width: auto;
     height: 85px;
@@ -28,6 +20,14 @@ img.menor {
 img {
     width: auto;
     height: 100px;
+}
+
+iframe {
+    width: 500px;
+    height:250px;
+    border-radius: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 h1 {

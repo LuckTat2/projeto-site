@@ -4,16 +4,12 @@
 }
 
 img.lado {
+    width: auto;
+    height: 110px;
     float: right;
 }
 
 img {
-    width: auto;
-    height: 100px;
-
-}
-
-img.header {
     width: auto;
     height: 150px;
 }

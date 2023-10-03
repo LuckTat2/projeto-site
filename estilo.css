@@ -3,6 +3,10 @@
     font-size: 16px;
 }
 
+h1 {
+    font-size: 25px;
+}
+
 body {
     background-color: rgb(179, 102, 102);
 }

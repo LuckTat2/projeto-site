@@ -3,6 +3,10 @@
     font-size: 16px;
 }
 
+img.lado {
+    float: right;
+}
+
 img {
     width: auto;
     height: 150px;

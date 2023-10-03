@@ -13,6 +13,12 @@ iframe {
     width: 500px;
     height:250px;
 }
+
+img.menor {
+    width: auto;
+    height: 80px;
+}
+
 img {
     width: auto;
     height: 150px;
